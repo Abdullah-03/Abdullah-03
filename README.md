@@ -3,7 +3,7 @@ Hi 👋 My name is Abdullah Saud
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Engineer;Open+Source+Contributor;Writer)](https://git.io/typing-svg)
 -------------------
 
-I make native apps augmented by machine learning. For the interface, I use React (Native) + Typescript, and depending on whether I need AI integration I use Flask / Express for the back end. When I'm not writing code, I write words.
+I make native apps augmented with machine learning. For the interface, I use React (Native) + Typescript, and depending on whether I need AI integration I use Flask / Express for the back end. When I'm not writing code, I write words.
 
 * 🖥️  See my portfolio at [my website](http://abdullahsaud.site)
 * ✉️  You can contact me at [abdullahsaud03@gmail.com](mailto:abdullahsaud03@gmail.com)
