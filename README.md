@@ -6,7 +6,7 @@ Software Engineer @ [Yavrio Open Banking](https://www.google.com/url?sa=t&source
 
 Working on payment gateways with TypeScript, Node, Express et al.
 
-* 🖥️  See my portfolio at [my website](http://abdullahsaud.site)
+* 🖥️  See my portfolio at [my website](https://abdullahsaud.netlify.app/)
 * ✉️  You can contact me at [abdullahsaud03@gmail.com](mailto:abdullahsaud03@gmail.com)
 * 🚀  I'm currently working on [Lita](http://github.com/Abdullah-03/LiTa)
 * 🧠  I'm learning Rust
